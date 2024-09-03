@@ -1,13 +1,13 @@
 # hr-data-analysis
 Tree Based Model for Retention Data
 
-Mock data used to showcase how I analyzed a dataset in order to give insights to increase employee retention. Began with data cleaning and 
+Mock data used to showcase how I analyzed a dataset in python to garner insights that could increase employee retention. Began with data cleaning and 
 exploratory data analysis, before coding some visualizations to try and notice patterns between variables. 
 
 
 <img width="904" alt="Screenshot 2024-08-27 at 11 39 55 AM" src="https://github.com/user-attachments/assets/204abccf-129b-4f9b-8843-42a62943ed91">
 
-This scatterplot can help notice trends of two possible groups: those that are overworked and who performed well until the quit, and those who may not have performed well and were let go.
+This scatterplot can help notice trends of two possible groups: those who were overworked and performed well until they quit, and those who performed poorly and were let go.
 
 Through this analysis I tried to identify the biggest variables that led to employees leaving Sailfort Motors, in order to allow HR and 
 upper leadership to try and amend these shortcomings. 
